@@ -1,0 +1,11 @@
+train: /content/drive/MyDrive/aimmo_yolo/images/train/
+val: /content/drive/MyDrive/aimmo_yolo/images/val/
+test: /content/drive/MyDrive/aimmo_yolo/images/test/
+
+
+# number of classes
+
+nc : 4
+
+# class names
+names: ['car', 'bus', 'truck', 'pedestrian']
