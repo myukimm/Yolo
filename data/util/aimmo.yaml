@@ -1,5 +1,5 @@
 train: /content/drive/MyDrive/aimmo_yolo/images/train
 
 
-nc: 4
-names: ['car', 'bus', 'truck', 'pedestrian']
+nc: 3
+names: ['car', 'bus', 'truck']
