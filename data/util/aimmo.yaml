@@ -1,7 +1,5 @@
 train: /content/drive/MyDrive/aimmo_yolo/images/train/
 
-# number of classes
-nc: 4
 
 # class names
 CLASSES: ['car', 'bus', 'truck', 'pedestrian']
